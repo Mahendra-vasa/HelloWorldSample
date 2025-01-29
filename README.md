@@ -1,2 +1,0 @@
-# HelloWorldSample
-Liberty App containerization
